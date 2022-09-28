@@ -1,2 +1,2 @@
 # CC-ChineseChess
-中国象棋
+中国象棋最简单实现
